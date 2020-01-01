@@ -6,8 +6,6 @@
 
 We welcome all interested and/or experienced developers into the Afrolynk Family. Our current developer pool is mix of mentors, interns, beginners and professional across wide technology spectrums including: Big data & Analytics, Artificial Intelligence, Internet of Things(IOT) / Smart Machines and Blockchain & Distributed Systems. 
 
-Developer On-Boarding Process: Here we'll consider several things
-
 We are continually seeling our for our various programmers developers who:
 
  - Metrics: engagement level on your community chat group(s), number of followers on social media, member interests in particular topics or languages, interest in certain products or technology etc
