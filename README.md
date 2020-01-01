@@ -6,7 +6,7 @@
 
 We welcome all interested and/or experienced developers into the Afrolynk Family. Our current developer skill pool is mix across wide technology spectrums including: Big data & Analytics, Artificial Intelligence, Internet of Things(IOT) / Smart Machines and Blockchain & Distributed Systems. 
 
-We are continually seeking out developers for our mentorship, internship, learners and professional programs.
+We are continually seeking out developers for our mentorship, internship, learners and professional programs. You're a perfect fit for our organization if you" If you possess any of the key qualities we look out for then 
 
  - Metrics: engagement level on your community chat group(s), number of followers on social media, member interests in particular topics or languages, interest in certain products or technology etc
 
