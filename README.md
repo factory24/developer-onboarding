@@ -15,5 +15,3 @@ We are continually seeking out developers for our mentorship, internship, learne
  - Take in feedback through issue tracking, feature requests or Q&A sessions that will help our community or products iterate faster.
 
 Where financial rewards are not immediately available we show our appreciation for the community through swag packs, t-shirts, scholarships, skills simulations etc as incentives for developers to participant in one or more of our developer programs. 
-
-Rewards or Incentives: a lot of developers also join certain communities as a result of the incentives and rewards gotten from the community like  swag packs, t-shirts, free skill acquisition, scholarships etc as benefitsThis repo is a simple guide for the Factory24 developer onboarding process. Afrolynk is keen on on-boarding developers that are a perfect fit for our organization.
