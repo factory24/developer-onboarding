@@ -18,5 +18,5 @@ Where financial rewards are not immediately available we show our appreciation f
 
 I. <strong>Mentorship Programme</strong>
 II. <strong>Internship Programme</strong>
-III. <strong></strong>
+III. <strong>Learners Programme</strong>
 IV. <strong></strong>
