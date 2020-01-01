@@ -8,7 +8,7 @@ We welcome all interested and/or experienced developers into the Afrolynk Family
 
 Developer On-Boarding Process: Here we'll consider several things
 
-Although, 
+We are continually seeling our for our various programmers developers who:
 
  - Metrics: engagement level on your community chat group(s), number of followers on social media, member interests in particular topics or languages, interest in certain products or technology etc
 
