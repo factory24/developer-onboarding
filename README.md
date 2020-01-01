@@ -8,6 +8,8 @@ We welcome all interested and/or experienced developers into the Afrolynk Family
 
 Developer On-Boarding Process: Here we'll consider several things
 
+Although, 
+
  - Metrics: engagement level on your community chat group(s), number of followers on social media, member interests in particular topics or languages, interest in certain products or technology etc
 
  - Build Leaders: in roles such as team leads, group leads, admins, ambassadors or higher roles such as developer advocates, developer community managers etc
