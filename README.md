@@ -15,3 +15,5 @@ We are continually seeking out developers for our mentorship, internship, learne
  - Take in feedback through issue tracking, feature requests or Q&A sessions that will help our community or products iterate faster.
 
 Where financial rewards are not immediately available we show our appreciation for the community through swag packs, t-shirts, scholarships, skills simulations etc as incentives for developers to participant in one or more of our developer programs. 
+
+i. <strong>Mentorship Programme</strongs>
