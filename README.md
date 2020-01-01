@@ -10,7 +10,7 @@ We are continually seeking out developers for our mentorship, internship, learne
 
  - Enjoy high engagement level in our community chat group(s), interact with followers on social media, have an interest in different topics or languages, products or technology etc
 
- - Build Leaders: in roles such as team leads, group leads, admins, ambassadors or higher roles such as developer advocates, developer community managers etc
+ - Build Leaders in roles such as team leads, group leads, admins, ambassadors or higher roles such as developer advocates, developer community managers etc
 
  - Feedback Loops: take in feedback as they help your community or product iterate faster, communities dwell a lot of member-feedback as they are their sole priority for starting one at the first place, issue tracking, feature requests or Q&A are some example method of getting feedback
 
