@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/project-Factory24-maroon.svg?style=flat-square)](http://factory24.org/)
 ![Twitter Follow](https://img.shields.io/twitter/follow/afrolynk?label=Follow&style=social)
 
-We welcome all interested and/or experienced developers into the Afrolynk Family. Our current developer pool is mix of mentors, interns, beginners and professional across wide technology spectrums including: Big data & Analytics, Artificial Intelligence, Internet of Things(IOT) / Smart Machines and Blockchain & Distributed Systems. 
+We welcome all interested and/or experienced developers into the Afrolynk Family. Our current developer skill pool is mix across wide technology spectrums including: Big data & Analytics, Artificial Intelligence, Internet of Things(IOT) / Smart Machines and Blockchain & Distributed Systems. 
 
 We are continually seeling our for our various programmers developers who:
 
