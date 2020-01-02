@@ -19,4 +19,8 @@ Where financial rewards are not immediately available we show our appreciation f
 * **Mentorship Program**
 * **Internship Program**
 * **Learners Program**
+
+For individuals getting started with a programming career, we offer learning resources available through the Factory24 platform, 
+location based workshops and bootcamps, 
+
 * **Alumni/Professionals Program**
