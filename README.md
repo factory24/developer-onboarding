@@ -21,4 +21,4 @@ Where financial rewards are not immediately available we show our appreciation f
 * **Learners Program** - For individuals getting started with a programming career, we offer learning resources available through the Factory24 platform, location based workshops and bootcamps. Courses, trainings and bootcamps are managed by expert 
 programmers who provide a great multi-learning platform for developers of all skill levels.
 
-* **Alumni/Professionals Program** - For developers who have participated in one or more Afrolynk Developer Programs we have a developer network of Factory24 alumni who acts as an on-demand service of employees for employers and startups, building continuous collaboration and developing 21st century solutions
+* **Alumni/Professionals Program** - For developers who have participated in one or more Afrolynk Developer Programs we have a developer network of Factory24 alumni who provide an on-demand consultancy service for employers and startups, building continuous collaboration and developing 21st century solutions. 
