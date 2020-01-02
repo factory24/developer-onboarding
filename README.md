@@ -17,7 +17,7 @@ We are continually seeking out developers for our mentorship, internship, learne
 Where financial rewards are not immediately available we show our appreciation for the community through swag packs, t-shirts, scholarships, skills simulations etc as incentives for developers to participant in one or more of our developer programs. 
 
 * **Mentorship Program**
-* **Internship Program**
+* **Internship Program** - Participating developers who completes a course certification, 
 * **Learners Program** - For individuals getting started with a programming career, we offer learning resources available through the Factory24 platform, location based workshops and bootcamps. Courses, trainings and bootcamps are managed by expert 
 programmers who provide a great multi-learning platform for developers of all skill levels.
 
