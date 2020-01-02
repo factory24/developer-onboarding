@@ -19,6 +19,6 @@ Where financial rewards are not immediately available we show our appreciation f
 * **Mentorship Program**
 * **Internship Program**
 * **Learners Program** - For individuals getting started with a programming career, we offer learning resources available through the Factory24 platform, location based workshops and bootcamps. Courses, trainings and bootcamps are managed by expert 
-programmers and this will give a great multi-learning platform for developers of all skill levels.
+programmers  a great multi-learning platform for developers of all skill levels.
 
 * **Alumni/Professionals Program**
