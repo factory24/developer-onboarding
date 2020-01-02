@@ -22,4 +22,4 @@ Where financial rewards are not immediately available we show our appreciation f
 programmers who provide a great multi-learning platform for developers of all skill levels.
 
 * **Alumni/Professionals Program** - For developers who have participated in one or more Afrolynk Developer Programs we have an
-alumni program a network of the Afrolynk Factory24 alumini who acts as an on-demand service of employees for employers and startups, building continuous collaboration and developing 21st century solutions
+alumni program which is a developer network of the Afrolynk Factory24 alumni who acts as an on-demand service of employees for employers and startups, building continuous collaboration and developing 21st century solutions
