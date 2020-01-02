@@ -19,9 +19,5 @@ Where financial rewards are not immediately available we show our appreciation f
 * **Mentorship Program**
 * **Internship Program**
 * **Learners Program**
-* **Alumni/Professionals Program**
-
-I. <strong>Mentorship Programme</strong>
-II. <strong>Internship Programme</strong>
-III. <strong>Learners Programme</strong>
-IV. <strong>Alumni/Professionals Programme</strong>
+* **Alumni/Professionals Program**s
+s
