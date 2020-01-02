@@ -20,6 +20,4 @@ Where financial rewards are not immediately available we show our appreciation f
 
 * **Internship Program** - Participating developers who complete a course certification are referred to start-ups or developers, who will assist the participants will dive into real world tasks, and work directly on solutions requested by partners. They will be guided by skilled trainers, and mentors provided by Afrolynk and partners. This programme intends to leverage on a skill sharing, and network market approach. 
 
-* **Learners Program** - For individuals getting started with a programming career, we offer learning resources available through the Factory24 platform, location based workshops and bootcamps. Courses, trainings and bootcamps are managed by expert programmers who provide a great multi-learning platform for developers of all skill levels.
-
 * **Alumni/Professionals Program** - For developers who have participated in one or more Afrolynk Developer Programs we have a developer network of Factory24 alumni who provide an on-demand consultancy service for employers and startups, building continuous collaboration and developing 21st century solutions. 
